@@ -2,7 +2,7 @@
 
 This is a roadmap voting app built with TypeScript and Next.js that's deployed on Vercel. It uses Upstash for the DB and next-auth for authentication.
 
-**Link to project:** http://#com/
+**Link to project:** https://100devs-roadmap.vercel.app/
 
 ![Roadmap landing page](http://#)
 
