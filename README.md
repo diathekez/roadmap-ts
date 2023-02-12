@@ -4,7 +4,7 @@ This is a roadmap voting app built with TypeScript and Next.js that's deployed o
 
 **Link to project:** https://100devs-roadmap.vercel.app/
 
-![Roadmap landing page](http://#)
+![Roadmap landing page](https://raw.githubusercontent.com/diathekez/roadmap-ts/master/public/docs/landing-page.png)
 
 ## Technologies
 
