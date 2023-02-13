@@ -37,7 +37,7 @@ export default function CreateForm() {
   ) : (
     <div
       className="flex flex-col items-center bg-zinc-100 px-3 py-6 rounded
-    dark:bg-zinc-800"
+    dark:bg-indigo-800"
     >
       <p>Please login to request or vote for a new feature.</p>
       <button className="button mt-4" type="button" onClick={() => signIn()}>
